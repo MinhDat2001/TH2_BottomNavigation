@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Thực hành 2</string>
+    <string name="publisher_prompt">Chọn nhà xuất bản</string>
+    <string-array name="publishers_array">
+        <item>Giáo dục</item>
+        <item>Khoa học</item>
+        <item>Bưu điện</item>
+        <item>Thống kê</item>
+        <item>Văn học</item>
+    </string-array>
+    <string-array name="find_publishers_array">
+        <item>Chọn tất cả</item>
+        <item>Giáo dục</item>
+        <item>Khoa học</item>
+        <item>Bưu điện</item>
+        <item>Thống kê</item>
+        <item>Văn học</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mList"
+        android:icon="@drawable/baseline_library"
+        android:title="Danh sách" />
+    <item
+        android:id="@+id/mFavorite"
+        android:icon="@drawable/baseline_book_24"
+        android:title="Yêu thích" />
+    <item
+        android:id="@+id/mFind"
+        android:icon="@drawable/baseline_find"
+        android:title="Danh sách" />
+</menu>
